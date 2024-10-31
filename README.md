@@ -1,0 +1,1 @@
+This is not a project about [Pochteca](https://en.wikipedia.org/wiki/Pochteca) any more but evolved to be about how a fad for an animal resource (a bird's feathers, a fashionable deep-sea fish) could lead to its extinction. So, the `foot_trading` file is a very rough draft, while `fad_model_project` might be worth attention.
